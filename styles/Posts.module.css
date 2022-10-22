@@ -1,0 +1,20 @@
+.red {
+    color: red;
+}
+
+.boxContainer {
+    float: left;
+    width: 20%;
+    padding: 5px;
+}
+
+.box {
+    float: left;
+    width: 20%;
+    padding: 5px;
+}
+
+.boxTitle {
+    width: 300px;
+    padding: 10px;
+}
